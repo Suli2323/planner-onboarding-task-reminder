@@ -30,12 +30,16 @@ Planner remains the source of truth for task status, while Power Automate handle
 
 Recurrence
 ↓
+
 List my tasks (Planner)
 ↓
+
 Filter array (incomplete tasks only)
 ↓
+
 Apply to each
 ↓
+
 Send email reminder
 
 
